@@ -31,3 +31,10 @@ h1 {
 p {
     line-height: 1.6;
 }
+
+.framework-img {
+    display: block;
+    max-width: 100px;
+    height: auto;
+    margin: 10px auto; /* Centra horizontalmente con margen superior e inferior */
+}
